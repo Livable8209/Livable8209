@@ -1,1 +1,1 @@
-terrible rust programmer 
+terrible ~~rust~~ programmer 
